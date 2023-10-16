@@ -1,0 +1,15 @@
+1;Смартфон Galaxy S22
+2;Ноутбук Dell XPS 15
+3;Телевизор LG OLED C1
+4;Холодильник Samsung RF23M8070SR
+5;Планшет Apple iPad Pro
+6;Фотокамера Canon EOS 5D Mark IV
+7;Автомобиль Tesla Model 3
+8;Велосипед Trek Domane SL 6
+9;Кофемашина De'Longhi Magnifica
+10;Стиральная машина Bosch Serie 6
+11;Микроволновая печь Panasonic NN-SD945S
+12;Утюг Philips Azur
+13;Электрическая плита GE JBS760SPSS
+14;Кондиционер Daikin Emura
+15;Электрочайник Breville BKE820XL
